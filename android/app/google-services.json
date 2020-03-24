@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "642536502116",
+    "firebase_url": "https://coronavirus-informativo.firebaseio.com",
+    "project_id": "coronavirus-informativo",
+    "storage_bucket": "coronavirus-informativo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642536502116:android:1854f6f64cbb0e03ab4071",
+        "android_client_info": {
+          "package_name": "com.vostore.coronavirusinformativo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642536502116-filsurr0r3937173faji7oju5lij2ec1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vostore.coronavirusinformativo",
+            "certificate_hash": "7ac5f4cf4875c42ba5404958d570ba6c9f533583"
+          }
+        },
+        {
+          "client_id": "642536502116-hdstv1658m0s47vrjtoi0ei0t273hnu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJbuR63tQKSH83177XVBJTpah9UUJ_te4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642536502116-hdstv1658m0s47vrjtoi0ei0t273hnu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
